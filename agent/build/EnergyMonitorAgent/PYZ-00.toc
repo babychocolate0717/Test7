@@ -1,0 +1,2 @@
+('C:\\Users\\ckklab\\Desktop\\project-root_1015\\agent\\build\\EnergyMonitorAgent\\PYZ-00.pyz',
+ [])
